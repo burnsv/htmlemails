@@ -4,30 +4,31 @@
   <head>
     <meta charset="UTF-8">
     <title>This Page</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   </head>
   <body style="border:none;">
   <table style="width:600px;">
       <tr style="border:none;">
         <!-- start of first row first column--->
-        <td style="background-image: linear-gradient(to bottom right, #2296EE, #65FFFD);; width:50%; height:300px; padding:0; position:relative;">
+        <td style="background-image: linear-gradient(to bottom right, #2296EE, #65FFFD);; width:50%; height:330px; padding:0; position:relative;">
           <table width=100% style="left:0">
               <tr>
-                <td style="display:inline-block; left:0 !important; width:100%; text-align:center"><img src="imgs/h.png" alt="an image of an h" left=0;></td>
+                <td style="display:inline-block; text-align:left; position:relative; top:-10px; left:75px;"><img src="imgs/h.png" alt="an image of an h" left=0; height="34px" weight="32px";></td>
               </tr>
               <tr text-align="center">
-                    <td style="background:pink; padding: 0; display:inline-block; width:100%; text-align:center">1.5
+                    <td style="position:relative; left:80px; top:-10px; padding:0; max-width:100%; display:inline-block; width:200px; text-align:left; color:white; font-family:'Open Sans', sans-serif; font-size:28px; font-weight: 100; margin-bottom:0;">Get ready for
                     </td>
                 </tr>
-                    <tr text-align="center">
-                    <td style="background:pink; padding: 0; display:inline-block; width:100%; text-align:center">1.5
+                    <tr text-align="center" style="max-height:100%">
+                            <td style="position:relative; left:80px; padding:0; top:-20px; display:inline-block; text-align:left; color:white; font-family:'Open Sans', sans-serif; font-size:50px; font-weight: 900; margin:0;">HERO
                     </td>
                     </tr>
                 <tr text-align="center">
-                    <td style="background:pink; padding: 0; display:inline-block; width:100%; text-align:center">1.5
-                    </td>
+                        <td style="position:relative; left:80px; padding:0; top:-10px; display:inline-block; width:180px; text-align:left; color:white; font-family:'Open Sans', sans-serif; font-size:10px; font-style: italic; font-weight: 100; margin:0;"><p style="margin:0; margin-bottom:10px!important">It seems like hundreds of new iWatch apps pop up every week, but which ones should you bother trying?</p>
+                            </td>
                 </tr>
                 <tr text-align="center">
-                    <td style="background:pink; padding: 0; display:inline-block; width:100%; text-align:center">1.5</td>
+                    <td style="position:relative; left:80px; padding:3px; display:inline-block; width:90px; text-align:center; color:white; font-family:'Open Sans', sans-serif; font-size:10px; font-weight: 100; margin-bottom:0; border-style:solid; border-color:white; border-width:1px;">LEARN MORE</td>
                 </tr>
               </tr>
         </td>
@@ -35,22 +36,31 @@
     </table>
           <!-- end of first row first column--->
           <!-- start of first row second column--->
-          <td style="background:yellow; width:50%">
+          <td style="background:white; width:50%">
             <table width=100%>
-              <tr text-align="center">
-                <td style="width:33.33%; text-align:center; background:white; padding:0">1.0</td>
-                <td style="width:33.33%; text-align:center; background:purple; padding:0">1.5</td> 
-                <td style="width:33.33%; text-align:center; background:purple; padding:0">1.5</td>
-              </tr> 
-              <tr text-align="center">
-                    <td style="background:pink; padding: 0; display:inline-block; width:100%; text-align:center">1.5</td>
-                  </tr>  
-            </table>
-          </td>  
-   
-    </tr>
+              <tr>
+                  <td>
+                  <table width=100%; style="position:relative; top:-40px">
+                    <tr>
+                <td style="position:relative; width:33.33%; text-align:center; background:white; padding:0; font-family:'Open Sans'"><a style="text-decoration: none; font-weight:450; font-size:10.5px; color:dimgray" href="http://#">ABOUT</a></td>
+                <td style="position:relative; width:33.33%; text-align:center; background:white; padding:0; font-family:'Open Sans'"><a style="text-decoration: none; font-weight:450; font-size:10.5px; color:dimgray" href="http://#">CAREERS</a></td>
+                <td style="position:relative; width:33.33%; text-align:center; background:white; padding:0; font-family:'Open Sans'"><a style="text-decoration: none; font-weight:450; font-size:10.5px; color:dimgray" href="http://#">CONTACT</a></td>
+            </td> 
+        </tr>
+        </tr> 
+    </table>
+    <table width=100% style="left:0">
+        <tr>
+                <td style="width:100%; text-align:left; padding:0; position:relative; top:25px;"><img src="imgs/applewatch.png" alt="an image of an applewatch" left=0; height="200px" weight="200px";></td>
+        </tr>  
+    </table>
+      </table>
+    </td>  
+</tr>
 
       <!-- end of first row second column--->
+
+      
       <!-- start of second row-first row Hero Let's You--->
             <table width=600px;>
               <tr text-align="center">
