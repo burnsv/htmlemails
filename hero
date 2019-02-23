@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <title>This Page</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   </head>
   <body style="border:none;">
   <table style="width:600px;">
@@ -59,12 +60,11 @@
 </tr>
 
       <!-- end of first row second column--->
-
       
       <!-- start of second row-first row Hero Let's You--->
             <table width=600px;>
               <tr text-align="center">
-                <td style="text-align:center; background:white; padding:0">Hero Let's You</td>
+                <td style="text-align:center; background:white; padding:40px; color:black; font-family:'Open Sans', sans-serif; font-size:20px; font-weight: 300; margin:0;"">Hero let's you...</td>
               </tr>   
             </table>
           </td>  
@@ -74,94 +74,95 @@
         <!-- end of second row--->
 
         <!-- start of Hero lets you first column--->
-        <table width=600px;>
-                <tr text-align="center">
-                  <td style="text-align:center; background:white; padding:0; width=100%">
-                <table width=100%>
-                    <tr>
-                        <td>
-                            <table width=100%>
-                                <tr>
-                                    <td>
-                                        x
-                                    </td>
-                                    <td>
-                                        x
-                                    </td>
-                                </tr>
-                            </table>  x</td>
-                    </tr>
-                    <tr>
-                            <td>x</td>
-                    </tr>
-                    <tr>
-                            <td>x</td>
-                    </tr>
-                </table>
-                </td>
+        
+                <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
                 <!-- end of Hero lets you first column--->
-                
+                <td style="text-align:center; background:white; padding:0; display:inline-block">
+                        <table width=100%>
+                                <tr>
+                                    <td width="100%">
+                                        <table width=100% style="display:inline-block">
+                                            <tr>
+                                                <td style="display:inline-block; padding-left:15px;">
+                                                <i class="fas fa-bell"></i>
+                                                </td>
+                                                <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding-left:10px" width=50%>
+                                                    NOTIFY
+                                                </td>
+                                            </tr>
+                                        </table>
+                                        </td>
+                                </tr>
+                                <tr>
+                                        <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
+                                </tr>
+                                <tr>
+                                        <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                </tr>
+                            </table>
+                        </td>
                 <!-- start of Notify Share Connect second column--->
-                <td style="text-align:center; background:white; padding:0">
-                <table width=100%>
-                        <tr>
-                            <td><table width=100%>
-                                    <tr>
-                                        <td>
-                                            x
-                                        </td>
-                                        <td>
-                                            y
-                                        </td>
-                                    </tr>
-                                </table>  x</td>
-                        </tr>
-                        <tr>
-                                <td>x</td>
-                        </tr>
-                        <tr>
-                                <td>x</td>
-                        </tr>
-                    </table>
-                </td>
+                <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
+                        <!-- end of Hero lets you first column--->
+                        <td style="text-align:center; background:white; padding:0; display:inline-block">
+                                <table width=100%>
+                                        <tr>
+                                            <td width="100%">
+                                                <table width=100% style="display:inline-block">
+                                                    <tr>
+                                                        <td style="display:inline-block; padding-left:15px;">
+                                                        <i class="fas fa-share-alt"></i>
+                                                        </td>
+                                                        <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding-left:10px" width=50%>
+                                                            SHARE
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
+                                        </tr>
+                                        <tr>
+                                                <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                        </tr>
+                                    </table>
+                                </td>
                 <!-- end of Notify Share Connect second column--->
             
                 <!-- start of Notify Share Connect third column--->
-                <td style="text-align:center; background:white; padding:0">
-                    <table width=100%>
-                            <tr>
-                                <td>
-                        <table width=100%>
-                            <tr>
-                                <td>
-                                    z
+                <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
+                        <!-- end of Hero lets you first column--->
+                        <td style="text-align:center; background:white; padding:0; display:inline-block">
+                                <table width=100%>
+                                        <tr>
+                                            <td width="100%">
+                                                <table width=100% style="display:inline-block">
+                                                    <tr>
+                                                        <td style="display:inline-block; padding-left:15px;">
+                                                        <i class="fas fa-wifi"></i>
+                                                        </td>
+                                                        <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding-left:10px" width=50%>
+                                                            CONNECT
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                </td>
+                                        </tr>
+                                        <tr>
+                                                <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
+                                        </tr>
+                                        <tr>
+                                                <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                        </tr>
+                                    </table>
                                 </td>
-                                <td>
-                                    x
-                                </td>
-                            </tr>
-                        </table>  </td>
-                            </tr>
-                            <tr>
-                                <td>x</td>
-                            </tr>
-                            <tr>
-                                <td>x</td>
-                            </tr>
-                            <tr>
-                                    <td>x</td>
-                                </tr>
-                    </table>
-                </td>
-                </td>
-                </tr>   
-              </table>
               <!-- end of Notify Share Connect --->
 
               <!-- start of first image rectangle orange box--->
               <table width=600px;>
                     <tr text-align="center">
-                      <td style="text-align:center; background:white; padding:0">IMG</td>
+                      <td style="text-align:center; background:white; padding:0; height:200px;"><img src="imgs/pinkrectangle.png" alt="a pink rectangle" height="100px" width="300px"></td>
                     </tr>   
                   </table>
                 <!-- end of first image rectangle orange box--->
@@ -169,7 +170,7 @@
                 <!-- start of worlds most advanced--->
               <table width=600px;>
                     <tr text-align="center">
-                      <td style="text-align:center; background:white; padding:0">World's Most Advanced</td>
+                      <td style="text-align:center; background:white; color:black; font-family:'Open Sans', sans-serif; font-size:20px; font-weight: 300; margin:0;">World's <b>most advanced</b> App<br> with High-Tech solutions</td>
                     </tr>   
                   </table>
                 <!-- end of worlds most advanced--->
@@ -177,8 +178,8 @@
                 <!-- start of first two paragraphs--->
                 <table width=600px;>
                         <tr text-align="center">
-                          <td style="text-align:center; background:white; padding:0"><p>Quisque sit amet dapibus risus, in iaculis sapien. Sed molestie nec nibh id hendrerit. Cras vulputate felis posuere arcu tempus euismod. Quisque nisi velit, luctus ac rhoncus sed, vestibulum ut eros. Integer ut orci et lacus luctus ullamcorper.</p></td>
-                          <td style="text-align:center; background:white; padding:0"><p>Quisque sit amet dapibus risus, in iaculis sapien. Sed molestie nec nibh id hendrerit. Cras vulputate felis posuere arcu tempus euismod. Quisque nisi velit, luctus ac rhoncus sed, vestibulum ut eros. Integer ut orci et lacus luctus ullamcorper.</p></td>
+                          <td style="text-align:left; background:white; font-family:'Open Sans'; font-size:11px; padding:20px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a est felis. Phasellus consequat tincidunt congue. Donec hendrerit dolor.</p></td>
+                          <td style="text-align:left; background:white; font-family:'Open Sans'; font-size:11px; padding:20px"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla a est felis. Phasellus consequat tincidunt congue. Donec hendrerit dolor.</p></td>
                         </tr>   
                       </table> 
                 <!-- end of first two paragraphs--->
@@ -186,54 +187,22 @@
                 <!-- start of two icons --->
                       <table width=600px;>
                             <tr text-align="center">
-                              <td style="text-align:right; background:white; padding:0"><p>Icon</p></td>
-                              <td style="text-align:left; background:white; padding:0"><p>Icon</p></td>
+                              <td style="text-align:right; background:white; padding-bottom:50px"><img src="imgs/gplay.png" alt="a pink rectangle" height="64px" width="207px"></td>
+                              <td style="text-align:left; background:white; padding-bottom:50px"><img src="imgs/astore.png" alt="a pink rectangle" height="64px" width="207px"></td>
                             </tr>   
                           </table>
                 <!-- end of two icons --->
 
-                 <!-- start of one app, one solution--->
-                 <table width=600px;>
+                <table width=600px;>
                         <tr text-align="center">
-                          <td style="text-align:center; background:white; padding:0">One App, One Solution</td>
+                          <td style="text-align:center; background:#141414; padding:60px; height:200px;"><img src="imgs/1app1solution.png" alt="a pink rectangle" height="189px" width="494px"></td>
                         </tr>   
                       </table>
-                    </td>  
-                  </td>
-                </tr>
-            </table>
-                  <!-- end of one app, one solution--->
-          
-                  <!-- start of images from one app, one solution--->
-                  <table width=600px;>
-                          <tr text-align="center">
-                            <td style="text-align:center; background:white; padding:0; width=100%">
-                          <table width=25%>
-                              <tr>
-                                  <td>
-                                      <table width=100%>
-                                          <tr>
-                                              <td>
-                                                  x
-                                              </td>
-                                              <td>
-                                                  x
-                                              </td>
-                                              <td>
-                                                x
-                                                </td>
-                                                <td>
-                                                x
-                                                </td>
-                                          </tr>
-                                      </table>
-            
-                    <!-- end of images from one app, one solution --->
 
                     <!-- start of features all joined--->
                     <table width=600px;>
                             <tr text-align="center">
-                              <td style="text-align:center; background:white; padding:0">Features All Joined Together in One App</td>
+                              <td style="text-align:center; background:white; color:black; font-family:'Open Sans', sans-serif; font-size:20px; font-weight: 300; margin:0; padding:25px">Features <b>All Joined Together</b> In One App</td>
                             </tr>   
                           </table>
                         </td>  
@@ -242,77 +211,92 @@
                 </table>
                       <!-- end of feature all joined--->
               
-              
-                      <!-- start of sync column of features all joined--->
-                      <table width=600px;>
-                            <tr text-align="center">
-                                    <td style="text-align:center; background:white; padding:0">
-                                            <table width=100%>
-                                                    <tr>
-                                                        <td><table width=33%>
-                                                              
-                                                            </table>  x</td>
-                                                    </tr>
-                                                    <tr>
-                                                            <td>x</td>
-                                                    </tr>
-                                                    <tr>
-                                                            <td>x</td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td>x</td>
+              <!-- start of Hero lets you first column--->
+              <!-- IMAGE EDITING--->
+        
+              <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
+                    <!-- end of Hero lets you first column--->
+                    <td style="text-align:center; background:white; padding:0; display:inline-block">
+                            <table width=100%>
+                                    <tr>
+                                        <td width="100%">
+                                            <table width=100% style="text-align:center">
+                                                <tr>
+                                                    <td style="text-align:center">
+                                                        <img src="imgs/bookimg.png" alt="and img of a book">
+                                                    </td>
                                                 </tr>
-                                                </table>
+                                            </table>
                                             </td>
-                        <!-- end of sync column of features all joined--->
-
-                        <!-- start of share column of features all joined--->
-                            <td style="text-align:center; background:white; padding:0">
+                                    </tr>
+                                    <tr>
+                                            <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding:10px;"><b>SYNC</b></td>
+                                    </tr>
+                                    <tr>
+                                            <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px; padding:10px;">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
+                                    </tr>
+                                    <tr>
+                                            <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                    </tr>
+                                </table>
+                            </td>
+                    <!-- start of Notify Share Connect second column--->
+                    <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
+                            <!-- end of Hero lets you first column--->
+                            <td style="text-align:center; background:white; padding:0; display:inline-block">
                                     <table width=100%>
                                             <tr>
-                                                <td><table width=33%>
-                                                      
-                                                    </table>x</td>
+                                                <td width="100%">
+                                                    <table width=100% style="text-align:center">
+                                                        <tr>
+                                                            <td style="text-align:center">
+                                                                <img src="imgs/bookimg.png" alt="and img of a book">
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    </td>
                                             </tr>
-                                            
                                             <tr>
-                                                    <td>x</td>
+                                                    <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding:10px;"><b>SHARE</b></td>
                                             </tr>
                                             <tr>
-                                                    <td>x</td>
+                                                    <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px; padding:10px;">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
                                             </tr>
                                             <tr>
-                                                <td>x</td>
-                                        </tr>
+                                                    <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                            </tr>
                                         </table>
                                     </td>
-                        <!-- end of share column of features all joined--->
-
-                        <!-- start of stats column of features all joined--->
-                            <td style="text-align:center; background:white; padding:0">
+                    <!-- end of Notify Share Connect second column--->
+                
+                    <!-- start of Notify Share Connect third column--->
+                    <table width=200px style="text-align:center; background:white; padding:0; display:inline-block">
+                            <!-- end of Hero lets you first column--->
+                            <td style="text-align:center; background:white; padding:0; display:inline-block">
                                     <table width=100%>
                                             <tr>
-                                                <td><table width=33% style="text-align:center;">
-                                                        
-                                                    </table>  x</td>
+                                                <td width="100%">
+                                                    <table width=100% style="text-align:center">
+                                                        <tr>
+                                                            <td style="text-align:center">
+                                                                <img src="imgs/bookimg.png" alt="and img of a book">
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    </td>
                                             </tr>
                                             <tr>
-                                                    <td>x</td>
+                                                    <td style="text-align:center; font-family:'Open Sans'; font-size:11px; padding:10px;"><b>STATS</b></td>
                                             </tr>
                                             <tr>
-                                                    <td>x</td>
+                                                    <td style="text-align:left!important; font-family:'Open Sans'; font-size:11px; padding:10px;">Contrary to popular belief, Lorem Ipsum is not simply random text.</td>
                                             </tr>
                                             <tr>
-                                                <td>x</td>
-                                        </tr>
+                                                    <td style="text-align:left!important"><a href="http://#" style="text-decoration:none; font-family:'Open Sans'; font-size:11px">Learn More</a></td>
+                                            </tr>
                                         </table>
                                     </td>
-                        <!-- end of stats column of features all joined--->
-        </tr>
-        </td>  
-      </td>
-    </tr>
-</table>
+                  <!-- end of Notify Share Connect --->
 
       <!-- start of responsive layout--->
       <table width=600px;>
