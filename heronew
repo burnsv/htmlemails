@@ -6,22 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale-1">
     <!-- <link rel="stylesheet" href="/css/main.css"> -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <style>
+      @media only screen and (min-width:960px){
+        .container{
+          width:960px;
+        }
+      }
+      @media only screen and (max-width:960px){
+        .container{
+          width:600px;
+        }
+      }
+      @media only screen and (max-width:600px){
+        .container{
+          width:100%;
+        }
+
+      }
+    </style>
   </head>
   <body>
     <!-- start of html email-->
-    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" background-color="black" style="background-color:black;">
       <tr>
         <td>
           <!-- start of container-->
           <table class="container" width="600px" align="center" cellspacing="0" cellpadding="0" border="0">
             <!-- start of header row-->
-            <tr>
+            <tr class="header-row" style="background-color:white;">
               <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #7d7d7d">
                 <!-- start of left column -->
-                <table class="header-left" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
+                <table class="top-left-column" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
                   <tr>
                     <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:white">
-                        <img src="C:\Users\Administrator\Downloads\imgs\h.png">
+                        <img src="https://i.postimg.cc/6pg77QS2/h.png">
                         <h2 style="font-size:30px; margin:0; font-weight:300; line-height:1; padding:25px 0 10px">Get Ready For</h2>
                         <h1 style="font-size:80px; margin:0; line-height:1; padding: 0 0 10px;">HERO</h1>
                         <p style="font-style: italic; font-size:14px; margin:0; line-height:1.5; padding: 20px 0 50px">It seems like hundreds of new iWatch apps pop up every week, but which ones should you bother trying?</p>
@@ -30,11 +49,11 @@
                   </tr>
                 </table>
                 <!-- end of left column -->
-                <!-- start of Right column -->
-                <table class="container" width="50%" align="right" cellspacing="0" cellpadding="0" border="0">
-                    <tr>
+                <!-- start of right column -->
+                <table class="top-right-column" width="50%" align="right" cellspacing="0" cellpadding="0" border="0" style="background-color:white;">
+                    <tr border="0">
                         <td>
-                            <table class="container" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:20px;">
+                            <table class="top-right-column" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:20px;">
                               <tr>
                                 <td align="center">
                                     <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">About</a>
@@ -51,25 +70,25 @@
                       </tr>
                       <tr>
                         <td align="center" valign="bottom" style="padding-top:100px">
-                          <img src="C:\Users\Administrator\Downloads\imgs\applewatch.png" alt="image of a smart watch">
+                          <img src="https://i.postimg.cc/hPCQBs10/applewatch.png" alt="image of a smart watch">
                         </td>
                       </tr>
                 </table>
-                <!-- end of Right column -->
+                <!-- end of right column -->
               </td>
             </tr>
             <!-- end of header row-->
             <!-- start of let's you row-->
-            <tr>
+            <tr class="lets-you-row">
               <td style="background: #fafafa">
-                <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px;">Hero let's you...</h3>
+                <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; padding:20px 0 0 10px; color: #333333; font-weight:400; font-size:26px;">Hero let's you...</h3>
                 <!-- start of left column-->
-                <table class="header-left" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
+                <table class="lets-you-row-left" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
                   <tr>
                     <td>
                       <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                         <tr>
-                          <td><img src="C:\Users\Administrator\Downloads\imgs\bellicon.png"></td>
+                          <td><img src="https://i.postimg.cc/HLMrbgDS/bellicon.png  "></td>
                           <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                         </tr>
                         </table>
@@ -88,12 +107,12 @@
                 </table>
               <!-- end of left column-->
               <!-- start of middle column-->
-              <table class="header-left" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
+              <table width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
                 <tr>
                   <td>
                     <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                       <tr>
-                        <td><img src="C:\Users\Administrator\Downloads\imgs\shareicon.png"></td>
+                        <td><img src="https://i.postimg.cc/KvY4JLh3/shareicon.png"></td>
                         <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Share</td>
                       </tr>
                       </table>
@@ -110,14 +129,14 @@
                   </td>
                 </tr>
               </table>
-            <!-- end of middle column-->
-            <!-- start of right column-->
+            <!-- end of middle column -->
+            <!-- start of right column -->
             <table class="header-left" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
               <tr>
                 <td>
                   <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                     <tr>
-                      <td><img src="C:\Users\Administrator\Downloads\imgs\connecticon.png"></td>
+                      <td><img src="https://i.postimg.cc/wj7yTNWY/connecticon.png"></td>
                       <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                     </tr>
                     </table>
@@ -139,41 +158,41 @@
             </tr>
             <!-- end of let's you row-->
             <!-- start of worlds most advanced row-->
-            <tr>
+            <tr style="outline:none" class="worlds-most-row">
               <td>
-                <tr>
+                <tr style="background-color:white;">
                   <td align="center">
-                    <img src="C:\Users\Administrator\Downloads\imgs\pinkrectangle.png">
+                    <img src="https://i.postimg.cc/TYH1SwT7/pinkrectangle.png">
                   </td>
                 </tr>
-                <tr>
+                <tr style="background-color:white; outline:none">
                   <td align="center">
-                    <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:400; font-size:22px; padding:0px 10px 10px;">World's <b>most advanced App</b><br>
+                    <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:400; font-size:22px; padding:15px 10px 15px;">World's <b>most advanced App</b><br>
                       with High Tech Solutions
                     </h3>
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    <table>
-                      <tr>
+                    <table style="background-color:white;">
+                      <tr style="background-color:white;">
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                          <p style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">The Strong museum has collected more than 55,000 video games and related artifacts from the history of gaming.
+                          <p style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:400; font-size:14px">The Strong museum has collected more than 55,000 video games and related artifacts from the history of gaming.
                           </p>
                         </td>
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
-                          <p style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">Remote Mouse lets you use your iPhone, Android or Windows Phone as a touchpad to control your onscreen cursor in a pinch.
+                          <p style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:400; font-size:14px">Remote Mouse lets you use your iPhone, Android or Windows Phone as a touchpad to control your onscreen cursor in a pinch.
                           </p>
                         </td>
                       </tr>
                     </table>
-                    <table>
-                      <tr>
+                    <table border="0" style="background-color:white;">
+                      <tr style="background-color:white;">
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                          <img src="C:\Users\Administrator\Downloads\imgs\gplay.png" style="display:block; width:100%; height:auto;">
+                          <img src="https://i.postimg.cc/tTt7mNgW/gplay.png" style="display:block; width:100%; height:auto;">
                         </td>
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
-                          <img src="C:\Users\Administrator\Downloads\imgs\gplay.png" style="display:block; width:100%; height:auto;">
+                          <img src=https://i.postimg.cc/tTt7mNgW/astore.png" style="display:block; width:100%; height:auto;">
                         </td>
                       </tr>
                     </table>
@@ -181,12 +200,12 @@
             </tr>
             <!-- end of worlds most advanced row-->
             <!-- start of one app, one solution row-->
-            <tr>
+            <tr class="one-app">
               <td>
                 <table style="background: #141414;">
                   <tr>
                     <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                      <img src="C:\Users\Administrator\Downloads\imgs\1app1solution.png" style="display:block; width:100%; height:auto; padding:50px 80px 0px; box-sizing:border-box">
+                      <img src="https://i.postimg.cc/pXV544zT/1app1solution.png" style="display:block; width:100%; height:auto; padding:50px 80px 0px; box-sizing:border-box">
                     </td>
                   </tr>
                 </table>
@@ -194,23 +213,23 @@
             </tr>
             <!-- end of one app, one solutions row-->
             <!-- start of all features joined row-->
-            <tr style="background: white; border:">
+            <tr class="all-row" style="background: white;">
               <td>
-                  <tr>
+                  <tr style="background-color:white;">
                     <td>
-                      <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:400; font-size:22px; padding:0px 10px 10px;">Features <b> All Joined Together</b> in One App
+                      <h3 align="center" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:400; font-size:22px; padding:50px 10px 20px;">Features <b> All Joined Together</b> in One App
                       </h3>
                     </td>
                   </tr>
-                  <tr>
+                  <tr style="background-color:white;">
                     <td>
-                      <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+                      <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 0 6 0px" style="background: white;">
                         <tr>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
                             <tr>
                               <td>
-                                <img src="C:\Users\Administrator\Downloads\imgs\bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
@@ -231,10 +250,10 @@
                             </table>
                           </td>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
                             <tr>
                               <td>
-                                <img src="C:\Users\Administrator\Downloads\imgs\bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
@@ -248,17 +267,17 @@
                               </td>
                             </tr>
                             <tr align="center">
-                              <td style="padding: 10px 0 0; visibility: hidden; 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
+                              <td style="padding: 10px 0 0; visibility:hidden;; 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
                                 Learn More...
                               </td>
                             </tr>
                             </table>
                           </td>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
                             <tr>
                               <td>
-                                <img src="C:\Users\Administrator\Downloads\imgs\bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
@@ -288,66 +307,172 @@
             </tr>
             <!-- end of all features joined row-->
             <!-- start of responsive layout row-->
-
-
-            <tr>
-              <td>
-                <table class="whole-section" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+            <tr class="responsive-row">
+              <td style="background: #fafafa">
+                <table class="whole-section" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:50px 15px 50px 15px" style="background: white;">
                   <tr>
                     <td>
-                      <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="background: white;">
+                      <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
                         <tr>
-                          <td width="50%">
-                            icon
+                          <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
+                          <i class="fas fa-mobile-alt"></i>
                           </td>
-                          <td width="50%">
-                            responsive text
+                          <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                            responsive layout
                           </td>
                         </tr>
-                        <tr>
-                          <td width="100%">
-                            lorem ipsum blah blah blah
-                          </td>
-                        </tr>
-                      </table>
-                    </td>
-                    <td>
-
-                    </td>
-                    <td>
-                      <table class="responsive-layout">
-                        <tr>
-                          <td>
-                            icon
-                          </td>
-                          <td>
-                            responsive text
-                          </td>
-                        </tr>
-                        <tr>
-                          <td>
-                            lorem ipsum blah blah blah
+                        <tr width="100%">
+                          <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                            There are many variations of passages of Lorem Ipsum available, but the majority
                           </td>
                         </tr>
                       </table>
                     </td>
                     <td>
+                      <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
+                        <tr>
+                          <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                          <i class="fas fa-eye"></i>
+                          </td>
+                          <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                            retina ready
+                          </td>
+                        </tr>
+                        <tr width="100%">
+                          <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                            There are many variations of passages of Lorem Ipsum available, but the majority
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                    <tr>
+                      <td>
 
+                          <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
+                            <tr>
+                              <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                              <i class="fas fa-check"></i>
+                              </td>
+                              <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                                various skins
+                              </td>
+                            </tr>
+                            <tr width="100%">
+                              <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                                There are many variations of passages of Lorem Ipsum available, but the majority
+                              </td>
+                            </tr>
+                          </table>
+
+                      </td>
+                      <td>
+
+                          <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
+                            <tr>
+                              <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                              <i class="fas fa-cogs"></i>
+                              </td>
+                              <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                                great performance
+                              </td>
+                            </tr>
+                            <tr width="100%">
+                              <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                                There are many variations of passages of Lorem Ipsum available, but the majority
+                              </td>
+                            </tr>
+                          </table>
+
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+
+                          <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 50px" style="background: white;">
+                            <tr>
+                              <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                              <i class="fas fa-bars"></i>
+                              </td>
+                              <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                                userfriendly menus
+                              </td>
+                            </tr>
+                            <tr width="100%">
+                              <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                                There are many variations of passages of Lorem Ipsum available, but the majority
+                              </td>
+                            </tr>
+                          </table>
+
+                      </td>
+                      <td>
+
+                          <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 50px" style="background: white;">
+                            <tr>
+                              <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                              <i class="fas fa-share-alt"></i>
+                              </td>
+                              <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
+                                social share
+                              </td>
+                            </tr>
+                            <tr width="100%">
+                              <td width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: grey; font-weight:600; font-size:14px">
+                                There are many variations of passages of Lorem Ipsum available, but the majority
+                              </td>
+                            </tr>
+                          </table>
+                      </td>
+                    </tr>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <!-- end of responsive layout row-->
+            <!-- start of interested in our app row-->
+            <tr class="interested-in-row">
+              <td>
+                <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
+                  <tr align="center">
+                    <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:white">
+                        <h2 style="font-size:30px; margin:0; font-weight:300; line-height:1; padding:40px 0 10px">Interested In Our App?</h2>
+                        <p style="font-style: italic; font-size:14px; margin:0; line-height:1.5; padding: 20px 0 50px">There are many variations of passages of Lorem<br> Ipsum available, but the majority have suffered</p>
+                        <a href="#" class="ghost-btn" style=" font-size: 12px; border-radius:3px; border: 2px solid white; text-decoration:none; color:white; padding:10px 15px; text-transform: uppercase">Learn More</a>
                     </td>
                   </tr>
                 </table>
               </td>
             </tr>
-
-            <!-- end of main row-->
-            <!-- start of responsive layout row-->
-            <tr>
-              <td></td>
-            </tr>
-            <!-- end of main row-->
-            <!-- start of main row-->
-            <tr>
-              <td></td>
+            <!-- end of interested in our app row-->
+            <!-- start of last row-->
+            <tr class="last-row">
+              <td>
+                <table width="100%" align="center" cellspacing="0" cellpadding="0" border="0">
+                    <tr style="border:none;">
+                      <!-- start of first row first column--->
+                      <td style="background:white; width:50%; height:250px; padding:0; position:relative;">
+                        <table width=100% style="left:0">
+                            <tr text-align="center">
+                                  <td style="padding:0; max-width:100%; display:inline-block; width:100%; text-align:center; color:black; font-family:'Open Sans', sans-serif; font-size:28px; font-weight: 700; margin-bottom:0;">HERO
+                                  </td>
+                              </tr>
+                              <tr text-align="center" width="100%">
+                                      <td style="padding:10px 0px 10px 0px; display:inline-block; width:100%; text-align:center; color:black; font-family:'Open Sans', sans-serif; font-size:10px; font-style: italic; font-weight: 100; margin:0;"><a href="http://twitter.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-twitter fa-2x"></i></a>
+                                          <a href="http://facebook.com/#" style="text-decoration: none; color:black"> <i style="padding:8px" class="fab fa-facebook fa-2x"></i> </a>
+                                          <a href="http://google.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-google-plus-g fa-2x"></i></a>
+                                          <a href="http://pinterest.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-pinterest fa-2x"></i></a>
+                                          <a href="http://linkedin.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-linkedin-in fa-2x"></i></a>
+                                          <a href="http://youtube.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-youtube fa-2x"></i></p></a>
+                                          </td>
+                              </tr>
+                              <tr style="text-align:center">
+                                  <td style="padding:3px; text-align:center; color:lightgray; font-family:'Open Sans', sans-serif; font-size:10px; font-weight: 100; border-style:solid; border-color:white; border-width:1px; display:inline;">©20XX All Rights Reserved - Your Company - Is Your Inbox Overflowing? <a href="http://www.mailchimp/#"> Unsubscribe </a></td>
+                              </tr>
+                            </tr>
+                      </td>
+                    </tr>
+              </table>
+              </td>
             </tr>
             <!-- end of main row-->
           </table>
@@ -356,5 +481,6 @@
       </tr>
     </table>
     <!-- end of html email-->
+    </table>
   </body>
 </html>
