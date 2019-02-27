@@ -11,17 +11,33 @@
       @media only screen and (min-width:960px){
         .container{
           width:960px;
+
         }
       }
       @media only screen and (max-width:960px){
         .container{
           width:600px;
         }
+
+
+
       }
-      @media only screen and (max-width:600px){
+      @media only screen and (max-width:600px) {
         .container{
           width:100%;
+
         }
+        .top-right-column{
+          width:100%;
+          float:left;
+        }
+        .top-left-column{
+          width:100%;
+          float:left;
+        }
+
+      }
+
 
       }
     </style>
@@ -35,7 +51,7 @@
           <table class="container" width="600px" align="center" cellspacing="0" cellpadding="0" border="0">
             <!-- start of header row-->
             <tr class="header-row" style="background-color:white;">
-              <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #7d7d7d">
+              <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #7d7d7d; width:100%">
                 <!-- start of left column -->
                 <table class="top-left-column" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
                   <tr>
@@ -50,10 +66,12 @@
                 </table>
                 <!-- end of left column -->
                 <!-- start of right column -->
+
+
                 <table class="top-right-column" width="50%" align="right" cellspacing="0" cellpadding="0" border="0" style="background-color:white;">
                     <tr border="0">
                         <td>
-                            <table class="top-right-column" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:20px;">
+                            <table class="top-right-column1" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:20px;">
                               <tr>
                                 <td align="center">
                                     <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">About</a>
@@ -65,16 +83,21 @@
                                     <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">Contact</a>
                                 </td>
                               </tr>
-                            </table>
+                              </table>
+                              <tr>
+                              <td align="center" valign="bottom" style="padding-top:100px">
+                                <img src="https://i.postimg.cc/hPCQBs10/applewatch.png" alt="image of a smart watch" style="max-width:100%">
+                              </td>
+                            </tr>
                         </td>
                       </tr>
-                      <tr>
-                        <td align="center" valign="bottom" style="padding-top:100px">
-                          <img src="https://i.postimg.cc/hPCQBs10/applewatch.png" alt="image of a smart watch">
-                        </td>
-                      </tr>
+
                 </table>
                 <!-- end of right column -->
+
+
+
+
               </td>
             </tr>
             <!-- end of header row-->
@@ -88,7 +111,7 @@
                     <td>
                       <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                         <tr>
-                          <td><img src="https://i.postimg.cc/HLMrbgDS/bellicon.png  "></td>
+                          <td><i class="fas fa-bell"></i></td>
                           <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                         </tr>
                         </table>
@@ -112,7 +135,7 @@
                   <td>
                     <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                       <tr>
-                        <td><img src="https://i.postimg.cc/KvY4JLh3/shareicon.png"></td>
+                        <td><i class="fas fa-share-alt"></i></td>
                         <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Share</td>
                       </tr>
                       </table>
@@ -136,7 +159,7 @@
                 <td>
                   <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                     <tr>
-                      <td><img src="https://i.postimg.cc/wj7yTNWY/connecticon.png"></td>
+                      <td><i class="fas fa-wifi"></i></td>
                       <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                     </tr>
                     </table>
@@ -159,10 +182,10 @@
             <!-- end of let's you row-->
             <!-- start of worlds most advanced row-->
             <tr style="outline:none" class="worlds-most-row">
-              <td>
+              <td style="background: #fafafa">
                 <tr style="background-color:white;">
                   <td align="center">
-                    <img src="https://i.postimg.cc/TYH1SwT7/pinkrectangle.png">
+                    <img src="https://i.postimg.cc/TYH1SwT7/pinkrectangle.png" style="max-width:100%">
                   </td>
                 </tr>
                 <tr style="background-color:white; outline:none">
@@ -189,10 +212,10 @@
                     <table border="0" style="background-color:white;">
                       <tr style="background-color:white;">
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                          <img src="https://i.postimg.cc/tTt7mNgW/gplay.png" style="display:block; width:100%; height:auto;">
+                          <a href="http://www.apple.com"><img src="https://i.postimg.cc/tTt7mNgW/gplay.png" style="display:block; max-width:100%"></a>
                         </td>
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
-                          <img src=https://i.postimg.cc/tTt7mNgW/astore.png" style="display:block; width:100%; height:auto;">
+                          <a href="http://www.apple.com"><img src="http://i68.tinypic.com/13zv4f9.png" style="display:block; max-width:100%" a href="http://www.google.com"></a>
                         </td>
                       </tr>
                     </table>
@@ -204,8 +227,8 @@
               <td>
                 <table style="background: #141414;">
                   <tr>
-                    <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                      <img src="https://i.postimg.cc/pXV544zT/1app1solution.png" style="display:block; width:100%; height:auto; padding:50px 80px 0px; box-sizing:border-box">
+                    <td class="advance-table" width="50%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
+                      <img src="https://i.postimg.cc/pXV544zT/1app1solution.png" style="display:block; max-width:100%; padding:5% 10% 0%; box-sizing:border-box">
                     </td>
                   </tr>
                 </table>
@@ -226,10 +249,10 @@
                       <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 0 6 0px" style="background: white;">
                         <tr>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
-                              <td>
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                              <td align="center">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
@@ -244,16 +267,16 @@
                             </tr>
                             <tr align="center">
                               <td style="padding: 10px 0 0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
-                                Learn More
+                                Learn More..
                               </td>
                             </tr>
                             </table>
                           </td>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
-                              <td>
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                              <td align="center">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
@@ -267,17 +290,17 @@
                               </td>
                             </tr>
                             <tr align="center">
-                              <td style="padding: 10px 0 0; visibility:hidden;; 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
+                              <td style="padding: 10px 0 0; visibility:hidden; 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
                                 Learn More...
                               </td>
                             </tr>
                             </table>
                           </td>
                           <td>
-                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px" style="background: white;">
+                            <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
-                              <td>
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; width:100%; height:auto; box-sizing:border-box">
+                              <td align="center">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
                               </td>
                             </tr>
                             <tr align="center">
