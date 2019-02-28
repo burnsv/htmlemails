@@ -115,7 +115,7 @@
                     <td>
                       <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                         <tr>
-                          <td><i class="fas fa-bell"></i></td>
+                          <td><img src="https://i.postimg.cc/3NVjpmtq/bell-icon.png"></td>
                           <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                         </tr>
                         </table>
@@ -139,7 +139,7 @@
                   <td>
                     <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                       <tr>
-                        <td><i class="fas fa-share-alt"></i></td>
+                        <td><img src="https://i.postimg.cc/VNmqjYFz/share-icon.png"></td>
                         <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Share</td>
                       </tr>
                       </table>
@@ -163,7 +163,7 @@
                 <td>
                   <table class="title-icon" width="33.33%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding: 0">
                     <tr>
-                      <td><i class="fas fa-wifi"></i></td>
+                      <td><img src="https://i.postimg.cc/WpHwQcs7/connect-icon.png"></td>
                       <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; padding:0 0 0 15px; font-weight:600; text-transform: uppercase; font-size:14px">Notify</td>
                     </tr>
                     </table>
@@ -341,7 +341,7 @@
                       <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
                         <tr>
                           <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                          <i class="fas fa-mobile-alt"></i>
+                          <img src="https://i.postimg.cc/XYwKGZd2/responsive.png">
                           </td>
                           <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                             responsive layout
@@ -358,7 +358,7 @@
                       <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
                         <tr>
                           <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
-                          <i class="fas fa-eye"></i>
+                          <img src="https://i.postimg.cc/QMmpmR61/eye.png">
                           </td>
                           <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                             retina ready
@@ -377,7 +377,7 @@
                           <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
                             <tr>
                               <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
-                              <i class="fas fa-check"></i>
+                              <img src="https://i.postimg.cc/NMPRqRv0/tick.png">
                               </td>
                               <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                                 various skins
@@ -396,7 +396,7 @@
                           <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 20px" style="background: white;">
                             <tr>
                               <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
-                              <i class="fas fa-cogs"></i>
+                              <img src="https://i.postimg.cc/nc9GxSzf/cog.png">
                               </td>
                               <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                                 great performance
@@ -417,7 +417,7 @@
                           <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 50px" style="background: white;">
                             <tr>
                               <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
-                              <i class="fas fa-bars"></i>
+                              <img src="https://i.postimg.cc/Sx07xL22/menu.png">
                               </td>
                               <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                                 userfriendly menus
@@ -436,7 +436,7 @@
                           <table class="responsive-layout" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:40px 15px 50px" style="background: white;">
                             <tr>
                               <td width="25%" align="center" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
-                              <i class="fas fa-share-alt"></i>
+                              <img src="https://i.postimg.cc/WpHwQcs7/connect-icon.png">
                               </td>
                               <td width="75%" align="left" cellspacing="0" cellpadding="0" border="0" style="display:inline-block; padding:0 0 30px; text-transform: uppercase; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:700; font-size:14px">
                                 social share
@@ -483,12 +483,13 @@
                                   </td>
                               </tr>
                               <tr text-align="center" width="100%">
-                                      <td style="padding:10px 0px 10px 0px; display:inline-block; width:100%; text-align:center; color:black; font-family:'Open Sans', sans-serif; font-size:10px; font-style: italic; font-weight: 100; margin:0;"><a href="http://twitter.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-twitter fa-2x"></i></a>
-                                          <a href="http://facebook.com/#" style="text-decoration: none; color:black"> <i style="padding:8px" class="fab fa-facebook fa-2x"></i> </a>
-                                          <a href="http://google.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-google-plus-g fa-2x"></i></a>
-                                          <a href="http://pinterest.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-pinterest fa-2x"></i></a>
-                                          <a href="http://linkedin.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-linkedin-in fa-2x"></i></a>
-                                          <a href="http://youtube.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-youtube fa-2x"></i></a>
+                                      <td style="padding:10px 0px 10px 0px; display:inline-block; width:100%; text-align:center; color:black; font-family:'Open Sans', sans-serif; font-size:10px; font-style: italic; font-weight: 100; margin:0;">
+                                          <a href="http://twitter.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/cC22FDxM/twitter-min.png"></a>
+                                          <a href="http://facebook.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/KY5Xmrfx/facebook-min.png"></a>
+                                          <a href="http://google.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/Qt6RT8vz/gplus-min.png"></a>
+                                          <a href="http://pinterest.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/7hfjMvkZ/pinterest-min.png"></a>
+                                          <a href="http://linkedin.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/hj4kvzZx/in-min.png"></a>
+                                          <a href="http://youtube.com/#" style="text-decoration: none; color:black"><img src="https://i.postimg.cc/J72f7hND/youtube-min.png"></a>
                                           </td>
                               </tr>
                               <tr style="text-align:center">
