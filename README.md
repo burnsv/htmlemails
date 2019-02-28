@@ -7,3 +7,6 @@ current working on:
 gmail   - ok
 yahoo - ok
 outlook - ok
+
+test mail on iphone
+gmail on iphone
