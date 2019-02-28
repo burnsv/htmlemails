@@ -38,6 +38,10 @@
 
       }
 
+      .table .tr .td{
+        border: none;
+      }
+
 
       }
     </style>
@@ -53,7 +57,7 @@
             <tr class="header-row" style="background-color:white;">
               <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #7d7d7d; width:100%">
                 <!-- start of left column -->
-                <table class="top-left-column" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
+                <table class="top-left-column" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="background: #3DC2F4; padding:15px 15px 70px 15px">
                   <tr>
                     <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:white">
                         <img src="https://i.postimg.cc/6pg77QS2/h.png">
@@ -86,7 +90,7 @@
                               </table>
                               <tr>
                               <td align="center" valign="bottom" style="padding-top:100px">
-                                <img src="https://i.postimg.cc/hPCQBs10/applewatch.png" alt="image of a smart watch" style="max-width:100%">
+                                <img src="https://i.postimg.cc/hPCQBs10/applewatch.png" alt="image of a smart watch" style="max-width:100%; box-shadow: none;">
                               </td>
                             </tr>
                         </td>
@@ -185,7 +189,7 @@
               <td style="background: #fafafa">
                 <tr style="background-color:white;">
                   <td align="center">
-                    <img src="https://i.postimg.cc/TYH1SwT7/pinkrectangle.png" style="max-width:100%">
+                    <img src="https://i.postimg.cc/TYH1SwT7/pinkrectangle.png" style="max-width:100%; box-shadow: none;">
                   </td>
                 </tr>
                 <tr style="background-color:white; outline:none">
@@ -212,10 +216,10 @@
                     <table border="0" style="background-color:white;">
                       <tr style="background-color:white;">
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                          <a href="http://www.apple.com"><img src="https://i.postimg.cc/tTt7mNgW/gplay.png" style="display:block; max-width:100%"></a>
+                          <a href="http://www.apple.com"><img src="https://i.postimg.cc/tTt7mNgW/gplay.png" style="display:block; max-width:100%; box-shadow: none;"></a>
                         </td>
                         <td class="advance-table" width="50%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px">
-                          <a href="http://www.apple.com"><img src="http://i68.tinypic.com/13zv4f9.png" style="display:block; max-width:100%" a href="http://www.google.com"></a>
+                          <a href="http://www.apple.com"><img src="http://i68.tinypic.com/13zv4f9.png" style="display:block; max-width:100%; box-shadow: none;" a href="http://www.google.com"></a>
                         </td>
                       </tr>
                     </table>
@@ -228,7 +232,7 @@
                 <table style="background: #141414;">
                   <tr>
                     <td class="advance-table" width="50%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15px 15px 70px 15px" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px">
-                      <img src="https://i.postimg.cc/pXV544zT/1app1solution.png" style="display:block; max-width:100%; padding:5% 10% 0%; box-sizing:border-box">
+                      <img src="https://i.postimg.cc/pXV544zT/1app1solution.png" style="display:block; max-width:100%; padding:5% 10% 0%; box-sizing:border-box; box-shadow: none;">
                     </td>
                   </tr>
                 </table>
@@ -252,7 +256,7 @@
                             <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
                               <td align="center">
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box; box-shadow: none;">
                               </td>
                             </tr>
                             <tr align="center">
@@ -266,8 +270,8 @@
                               </td>
                             </tr>
                             <tr align="center">
-                              <td style="padding: 10px 0 0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
-                                Learn More..
+                              <td style="padding: 10px 0 0;">
+                                <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
                               </td>
                             </tr>
                             </table>
@@ -276,7 +280,7 @@
                             <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
                               <td align="center">
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box; box-shadow: none;">
                               </td>
                             </tr>
                             <tr align="center">
@@ -290,8 +294,7 @@
                               </td>
                             </tr>
                             <tr align="center">
-                              <td style="padding: 10px 0 0; visibility:hidden; 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
-                                Learn More...
+                              <td style="padding: 10px 0 0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: white; font-weight:600; font-size:14px; text-decoration:none;"> Learn More...
                               </td>
                             </tr>
                             </table>
@@ -300,7 +303,7 @@
                             <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:15%" style="background: white;">
                             <tr>
                               <td align="center">
-                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box">
+                                <img src="https://i.postimg.cc/RFzNRDvv/bookimg.png" style="display:block; max-width:100%; height:auto; box-sizing:border-box; box-shadow: none;">
                               </td>
                             </tr>
                             <tr align="center">
@@ -314,16 +317,16 @@
                               </td>
                             </tr>
                             <tr align="center">
-                              <td style="padding: 10px 0 0; font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #333333; font-weight:600; font-size:14px; color:blue;">
-                                Learn More...
+                              <td style="padding: 10px 0 0;">
+                                <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
                               </td>
                             </tr>
                             </table>
                           </td>
                         </tr>
                       </table>
-                      </tr>
                       </td>
+                      </tr>
                     </td>
                   </tr>
               </td>
@@ -455,7 +458,7 @@
             <!-- start of interested in our app row-->
             <tr class="interested-in-row">
               <td>
-                <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="background: linear-gradient(to bottom right, #2296EE, #65FFFD); padding:15px 15px 70px 15px">
+                <table class="header-left" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="background: #3DC2F4;; padding:15px 15px 70px 15px">
                   <tr align="center">
                     <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:white">
                         <h2 style="font-size:30px; margin:0; font-weight:300; line-height:1; padding:40px 0 10px">Interested In Our App?</h2>
@@ -485,13 +488,13 @@
                                           <a href="http://google.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-google-plus-g fa-2x"></i></a>
                                           <a href="http://pinterest.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-pinterest fa-2x"></i></a>
                                           <a href="http://linkedin.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-linkedin-in fa-2x"></i></a>
-                                          <a href="http://youtube.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-youtube fa-2x"></i></p></a>
+                                          <a href="http://youtube.com/#" style="text-decoration: none; color:black"><i style="padding:8px" class="fab fa-youtube fa-2x"></i></a>
                                           </td>
                               </tr>
                               <tr style="text-align:center">
                                   <td style="padding:3px; text-align:center; color:lightgray; font-family:'Open Sans', sans-serif; font-size:10px; font-weight: 100; border-style:solid; border-color:white; border-width:1px; display:inline;">©20XX All Rights Reserved - Your Company - Is Your Inbox Overflowing? <a href="http://www.mailchimp/#"> Unsubscribe </a></td>
                               </tr>
-                            </tr>
+
                       </td>
                     </tr>
               </table>
