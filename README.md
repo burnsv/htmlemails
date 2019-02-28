@@ -5,9 +5,5 @@ HTML email project using css styling for a fictional app called hero for the iWa
 current working on:
 
 gmail   - ok
-outlook - first left row blue gradient background not showing
-        - grey borders showing
-yahoo   - first left row blue gradient background not showing
-
-issue with linear background image section
-
+yahoo - ok
+fixed by removing linear gradient css
