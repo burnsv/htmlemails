@@ -64,7 +64,7 @@
                         <h2 style="font-size:30px; margin:0; font-weight:300; line-height:1; padding:25px 0 10px">Get Ready For</h2>
                         <h1 style="font-size:80px; margin:0; line-height:1; padding: 0 0 10px;">HERO</h1>
                         <p style="font-style: italic; font-size:14px; margin:0; line-height:1.5; padding: 20px 0 50px">It seems like hundreds of new iWatch apps pop up every week, but which ones should you bother trying?</p>
-                        <a href="#" class="ghost-btn" style=" font-size: 12px; border-radius:3px; border: 2px solid white; text-decoration:none; color:white; padding:10px 15px; text-transform: uppercase">Learn More</a>
+                        <a href="http://hero.ioo/learnmore" class="ghost-btn" style=" font-size: 12px; border-radius:3px; border: 2px solid white; text-decoration:none; color:white; padding:10px 15px; text-transform: uppercase">Learn More</a>
                     </td>
                   </tr>
                 </table>
@@ -78,13 +78,13 @@
                             <table class="top-right-column1" width="100%" align="center" cellspacing="0" cellpadding="0" border="0" style="padding:20px;">
                               <tr>
                                 <td align="center">
-                                    <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">About</a>
+                                    <a href="http://hero.ioo/about" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">About</a>
                                 </td>
                                 <td align="center">
-                                    <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">Careers</a>
+                                    <a href="http://hero.ioo/careers" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">Careers</a>
                                 </td>
                                 <td align="center">
-                                    <a href="#" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">Contact</a>
+                                    <a href="http://hero.ioo/contact" style="color: #7d7d7d; font-size:14px; font-weight:600; text-decoration:none;">Contact</a>
                                 </td>
                               </tr>
                               </table>
@@ -128,7 +128,7 @@
                   </tr>
                   <tr>
                     <td>
-                      <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
+                      <a href="http://hero.ioo/learnmore" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
                     </td>
                   </tr>
                 </table>
@@ -152,7 +152,7 @@
                 </tr>
                 <tr>
                   <td>
-                    <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
+                    <a href="http://hero.ioo/learnmore" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
                   </td>
                 </tr>
               </table>
@@ -176,7 +176,7 @@
               </tr>
               <tr>
                 <td>
-                  <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
+                  <a href="http://hero.ioo/learnmore" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More</a>
                 </td>
               </tr>
             </table>
@@ -271,7 +271,7 @@
                             </tr>
                             <tr align="center">
                               <td style="padding: 10px 0 0;">
-                                <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
+                                <a href="http://hero.ioo/learnmore" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
                               </td>
                             </tr>
                             </table>
@@ -318,7 +318,7 @@
                             </tr>
                             <tr align="center">
                               <td style="padding: 10px 0 0;">
-                                <a href="#" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
+                                <a href="http://hero.ioo/learnmore" style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color: #2792ec; font-weight:600; font-size:14px; text-decoration:none;">Learn More...</a>
                               </td>
                             </tr>
                             </table>
@@ -463,7 +463,7 @@
                     <td style="font-family: 'Open Sans', sans-serif, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:white">
                         <h2 style="font-size:30px; margin:0; font-weight:300; line-height:1; padding:40px 0 10px">Interested In Our App?</h2>
                         <p style="font-style: italic; font-size:14px; margin:0; line-height:1.5; padding: 20px 0 50px">There are many variations of passages of Lorem<br> Ipsum available, but the majority have suffered</p>
-                        <a href="#" class="ghost-btn" style=" font-size: 12px; border-radius:3px; border: 2px solid white; text-decoration:none; color:white; padding:10px 15px; text-transform: uppercase">Learn More</a>
+                        <a href="http://hero.ioo/learnmore" class="ghost-btn" style=" font-size: 12px; border-radius:3px; border: 2px solid white; text-decoration:none; color:white; padding:10px 15px; text-transform: uppercase">Learn More</a>
                     </td>
                   </tr>
                 </table>
