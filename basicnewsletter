@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+
+    <title>Page title</title>
+
+    <style type="text/css">
+        @media screen and (min-width: 500px) {
+          .paragraph{
+            width:100%;
+            margin-left:auto!important;
+            margin-right:auto!important;
+          }
+                @media screen and (min-width: 500px) {
+          .paragraph1{
+            width:100%;
+            margin-left:auto!important;
+            margin-right:auto!important;
+          }
+        }
+
+               @media screen and (min-width: 500px) {
+          .paragraph3 {
+            width:500px!important;
+            margin-left:auto!important;
+            margin-right:auto!important;
+          }
+        }
+
+
+    </style>
+
+</head>
+
+<body style="padding:0; margin:0">
+
+<table class="paragraph" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
+    <tr>
+        <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; padding:35px 0 35px 0">
+          <img src="C:\Users\admin\Downloads\fromLitmus\_Created\SimpleAnnouncement\logo-2.jpg">
+        </td>
+      </tr>
+        <tr>
+          <td style="background-color: #D8F1FF" align="center" valign="top" width=100%>
+            <table class="paragraph3" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
+              <tr>
+            <td class="100%column" align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; padding:70px 0; background-color: #D8F1FF" width="100%">
+            <img src="C:\Users\admin\Downloads\fromLitmus\_Created\SimpleAnnouncement\video-1.jpg" width="100%">
+          <h3>Our Greatest Feature Ever</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, leo a ullamcorper feugiat, ante purus sodales justo, a faucibus libero lacus a est. Aenean at mollis ipsum.
+          </p>
+          <a href="http://newpage.ioo"><p style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: white; background-color: blue; display:inline-block;padding:10px 25px">Watch Now!</p></a>
+          </td>
+        </tr> 
+              </table>
+            </td>
+    <tr>
+        <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:12px; line-height:20pt; font-weight:500; color: #696969; padding:25px 0">
+          1234 Main Street, Anywhere, MA 01234, USA <br><a href="http://site.com/unsubscribe" style="text-decoration:none; font-family: 'Montserrat', sans-serif; font-size:12px; line-height:20pt; font-weight:500; color: #696969">Unsubscribe</a>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
