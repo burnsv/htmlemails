@@ -35,12 +35,12 @@
           <td style="background-color: #D8F1FF" align="center" valign="top" width=100%>
             <table class="mainbody" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
               <tr>
-              <td class="100%column" align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; padding:70px 0; background-color: #D8F1FF" width="100%">
+              <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; padding:70px 0; background-color: #D8F1FF" width="100%">
                 <a href="http://video.ioo"><img src="https://i.postimg.cc/MZbQBFb8/video-1.png" width="100%"></a>
-                <h3>Our Greatest Feature Ever</h3>
+                <h3 style="font-family: 'Montserrat', sans-serif; font-size:22px; line-height:20pt; font-weight:400; color: black;">Our Greatest Feature Ever</h3>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, leo a ullamcorper feugiat, ante purus sodales justo, a faucibus libero lacus a est. Aenean at mollis ipsum.
                 </p>
-                <a href="http://newpage.ioo"><p style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: white; background-color: blue; display:inline-block;padding:10px 25px">Watch Now!</p></a>
+                <a href="http://newpage.ioo"><p style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: white; background-color: #256F9C; display:inline-block;padding:10px 25px">Watch Now →</p></a>
               </td>
               </tr> 
             </table>
