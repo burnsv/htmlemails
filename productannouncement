@@ -7,141 +7,90 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
 
+  <title>Page title</title>
 
-    <title>Page title</title>
-
-    <style type="text/css">
-        @media screen and (max-width: 500px) {
-          .paragraph1{
-            text-align:center!important;
-            width:100%;
-            margin-left:auto!important;
-            margin-right:auto!important;
-          }
+  <style type="text/css">
+    @media screen and (max-width: 500px) {
+      .paragraph1{
+        text-align:center!important;
+        width:100%;
+        margin-left:auto!important;
+        margin-right:auto!important;
+      }
+    }
+      @media screen and (max-width: 500px) {
+        .td1 {
+          width:100%;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          display:table-cell;
         }
-        @media screen and (max-width: 500px) {
-          .td1 {
-            width:100%;
-            margin-left:auto!important;
-            margin-right:auto!important;
-            display:table-cell;
-          }
-        }
+      }
 
-        @media screen and (max-width: 500px) {
-          .paragraph2{
-            text-align:center!important;
-            width:100%;
-            margin-left:auto!important;
-            margin-right:auto!important;
-            direction: rtl!important;
-          }
+      @media screen and (max-width: 500px) {
+        .paragraph2{
+          text-align:center!important;
+          width:100%;
+          margin-left:auto!important;
+          margin-right:auto!important;
+          direction: rtl!important;
         }
-
+      }
     </style>
-
 </head>
-
 <body style="padding:0; margin:0">
-
-<table class="paragraph1" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
+  <table class="paragraph1" border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%">
     <tr>
-        <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; background:#333333; padding:10px 0 10px 0">
-          <img src="C:\Users\Administrator\Downloads\ProductAnnouncement\logo-1.jpg">
-        </td>
-    </tr>
-
-    <tr width="100%">
-        <td width="100%" align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:26px; line-height:20pt; font-weight:100; color: #2C76A6; background:#D8F1FF; padding:5px 0 30px 0">
-          <table class=paragraph1 width="500px">
-            <tr>
-              <td align="center" width=100%>
-                <img src="C:\Users\Administrator\Downloads\ProductAnnouncement\product-1.png" style="width:100%; height:auto">
-                <h3 style="font-family: 'Montserrat', sans-serif; font-size:26px; line-height:20pt; font-weight:600; letter-spacing: .005px; color: #2C76A6">Our Biggest Update Ever</h3>
-              </td>
-            </tr>
-          </table>
+      <td align="center" valign="top" style="background:#333333; padding:10px 0 10px 0">
+        <img src="https://i.postimg.cc/bwgDzMr6/logo-1.png">
       </td>
     </tr>
-
+    <tr width="100%">
+      <td width="100%" align="center" valign="top" style="background:#D8F1FF; padding:5px 0 30px 0">
+        <table class=paragraph1 width="500px">
+          <tr>
+            <td align="center" width=100%>
+              <img src="https://i.postimg.cc/gJCrSbt0/product-1.png" style="width:100%; height:auto">
+              <h3 style="font-family: Helvetica, Arial, sans-serif; font-size:32px; line-height:30pt; font-weight:400; color: #2C76A6">Our Biggest Update Ever</h3>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
     <tr>
       <td>
         <table class=paragraph1 width="500px" align="center">
           <tr>
-          <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:13px; line-height:20pt; font-weight:300; color: #696969; background:white; padding:60px 0 10px 0; display:inline-block; width:100%">
-          <table class=paragraph2 width="500px" align="center">
-            <tr>
-              <td class="td1" width="33%" align=center style="display:inline-block">
-                <img src="C:\Users\Administrator\Downloads\ProductAnnouncement\product-2.png" style="height:168px; width:auto;">
-              </td>
-              <td width="66%" style="display:inline-block">
-                <h1 style="font-family: 'Montserrat', sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
-                <p style="font-family: 'Montserrat', sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
-              </td>
-            </tr>
-          </table>
-        </td>
-          </tr>
-        </table>
-        </td>
-      </tr>
-
-<!--- second row imageThenText !--->
-<tr>
-  <td>
-    <table class=paragraph1 width="500px" align="center">
-      <tr>
-      <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:13px; line-height:20pt; font-weight:300; color: #696969; background:white; padding:30px 0 10px 0; display:inline-block; width:100%">
-      <table class=paragraph2 width="500px" align="center" dir="rtl">
-        <tr>
-          <td class="td1" width="33%" align=center style="display:inline-block">
-            <img src="C:\Users\Administrator\Downloads\ProductAnnouncement\product-3.png" style="height:168px; width:auto;">
-          </td>
-          <td width="66%" style="display:inline-block" dir="ltr">
-            <h1 style="font-family: 'Montserrat', sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
-            <p style="font-family: 'Montserrat', sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-      </tr>
-    </table>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <table class=paragraph1 width="500px" align="center">
-        <tr>
-        <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:13px; line-height:20pt; font-weight:300; color: #696969; background:white; padding:30px 0 10px 0; display:inline-block; width:100%">
+            <td align="center" valign="top" style="padding:60px 0 10px 0; display:inline-block; width:100%">
         <table class=paragraph2 width="500px" align="center">
-          <tr>
-            <td class="td1" width="33%" align=center style="display:inline-block">
-              <img src="C:\Users\Administrator\Downloads\ProductAnnouncement\product-4.png" style="height:168px; width:auto;">
-            </td>
-            <td width="66%" style="display:inline-block">
-              <h1 style="font-family: 'Montserrat', sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
-              <p style="font-family: 'Montserrat', sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
-            </td>
-          </tr>
-        </table>
+    <tr>
+      <td class="td1" width="33%" align=center style="display:inline-block">
+        <img src="https://i.postimg.cc/0NN6rfJ9/product-2.png" style="height:168px; width:auto;">
       </td>
-        </tr>
-      </table>
+      <td width="66%" style="display:inline-block">
+        <h1 style="font-family: Helvetica, Arial, sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
+          <p style="font-family: Helvetica, Arial, sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
       </td>
     </tr>
-
+        </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
     <tr>
       <td>
-        <table width="100%">
+        <table class=paragraph1 width="500px" align="center">
           <tr>
-          <td align="center" valign="top" style="font-family: 'Montserrat', sans-serif; font-size:16px; line-height:20pt; font-weight:500; color: #696969; background:white; padding:60px 0 10px 0; display:inline-block; width:100%">
-          <table class=paragraph1 width="500px" align="center">
+          <td align="center" valign="top" style="padding:30px 0 10px 0; display:inline-block; width:100%">
+          <table class=paragraph2 width="500px" align="center" dir="rtl">
             <tr>
-              <td width="66%" align="center">
-                <h1 align="center" style="font-family: 'Montserrat', sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: black">Our Best Product Ever</h1>
-                <p align="center" style="font-family: 'Montserrat', sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: dark-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, leo a ullamcorper feugiat, ante purus sodales justo, a faucibus libero lacus a est. Aenean at mollis ipsum.</p>
-                <a href="http://product.ioo/learnmore"><p align="center" style="font-family: 'Montserrat', sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: white; background:#256F9C; display:inline-block; padding:5px 15px">Learn More →</p></a>
+              <td class="td1" width="33%" align=center style="display:inline-block">
+                <img src="https://i.postimg.cc/8Cn7v6hM/product-3.png" style="height:168px; width:auto;">
+              </td>
+              <td width="66%" style="display:inline-block" dir="ltr">
+                <h1 style="font-family: Helvetica, Arial, sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
+                <p style="font-family: Helvetica, Arial, sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
               </td>
             </tr>
           </table>
@@ -151,12 +100,53 @@
         </td>
       </tr>
 
-    <tr>
-        <td align="center " valign="top" style="font-family: 'Montserrat', sans-serif; font-size:11px; line-height:20pt; font-weight:500; color: #696969; padding:60px 0">
-          1234 Main Street, Anywhere, MA 01234, USA <br><a href="http://site.com/unsubscribe" style="text-decoration:none; font-family: 'Montserrat', sans-serif; font-size:11px; line-height:20pt; font-weight:500; color: #696969; padding:0 0 35px 0">Unsubscribe</a>
-        </td>
-    </tr>
+      <tr>
+        <td>
+          <table class=paragraph1 width="500px" align="center">
+            <tr>
+            <td align="center" valign="top" style="color: #696969; background:white; padding:30px 0 10px 0; display:inline-block; width:100%">
+            <table class=paragraph2 width="500px" align="center">
+              <tr>
+                <td class="td1" width="33%" align=center style="display:inline-block">
+                  <img src="https://i.postimg.cc/j5wL4SX9/product-4.png" style="height:168px; width:auto;">
+                </td>
+                <td width="66%" style="display:inline-block">
+                  <h1 style="font-family: Helvetica, Arial, sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: black">Feature Highlight</h1>
+                  <p style="font-family: Helvetica, Arial, sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .05px; color: dark-grey">Maecenas sed nulla massa. In mattis vulputate nisl, rhoncus blandit lorem maximus non. Phasellus tempus in ipsum non lacinia.</p>
+                </td>
+              </tr>
+            </table>
+          </td>
+            </tr>
+          </table>
+          </td>
+        </tr>
 
-</table>
+        <tr>
+          <td>
+            <table width="100%">
+              <tr>
+              <td align="center" valign="top" style="color: #696969; background:white; padding:60px 0 10px 0; display:inline-block; width:100%">
+              <table class=paragraph1 width="500px" align="center">
+                <tr>
+                  <td width="66%" align="center" style="padding:0 40px">
+                    <h1 align="center" style="font-family: Helvetica, Arial, sans-serif; font-size:22px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: black">Our Best Product Ever</h1>
+                    <p align="center" style="font-family: Helvetica, Arial, sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: dark-grey">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius, leo a ullamcorper feugiat, ante purus sodales justo, a faucibus libero lacus a est. Aenean at mollis ipsum.</p>
+                    <a href="http://product.ioo/learnmore"><p align="center" style="font-family: Helvetica, Arial, sans-serif; font-size:14px; line-height:20pt; font-weight:500; letter-spacing: .005px; color: white; background:#256F9C; display:inline-block; padding:5px 15px">Learn More →</p></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+              </tr>
+            </table>
+            </td>
+          </tr>
+          <tr>
+              <td align="center " valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size:11px; line-height:20pt; font-weight:500; color: #696969; padding:60px 0">
+                1234 Main Street, Anywhere, MA 01234, USA <br><a href="http://site.com/unsubscribe" style="text-decoration:none; font-family: Helvetica, Arial, sans-serif; font-size:11px; line-height:20pt; font-weight:500; color: #696969; padding:0 0 35px 0">Unsubscribe</a>
+              </td>
+          </tr>
+
+  </table>
 </body>
 </html>
