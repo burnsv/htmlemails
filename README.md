@@ -2,11 +2,7 @@
 Html Emails
 HTML email project using css styling for a fictional app called hero for the iWatch
 
-current working on:
+product announcement features:
+columns with images switch
 
-gmail   - ok
-yahoo - ok
-outlook - ok
 
-test mail on iphone
-gmail on iphone
